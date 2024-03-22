@@ -6,7 +6,7 @@
 </div>
 
 ## Data Use
----
+
 This data is licensed under a Creative Commons Attribution 4.0 International License (CC-BY).
 
 In light of the effort required to create data packages, we request that in addition to following the CC-BY license terms, that users 1) respect the data providers, and provide helpful feedback on data quality, and 2) communicate and/or collaborate with Hakai Nearshore researchers if you are considering using this dataset for manuscripts or other forms of reporting.
@@ -34,9 +34,9 @@ surveys conducted in the rocky intertidal of Calvert Island BC, starting in 2016
 See the data dictionary file for a complete description of data variables, units and descriptions.
 
 - ***Data*** 
-	- **mussel_point_intercepts-surveys.csv:** Counts of understory/overstory cover for mussel beds, quantified within a set area (75cmx50cm) using point-intercept method. Counts can be extrapolated to % cover based upon number of intercepts counted and plot area. Individual plots are repeated across time.
+	- **mussel_point_intercepts-surveys.csv:** Counts of understory/overstory cover for ***Mytilus californianus*** beds, quantified within a set area (75cmx50cm) using point-intercept method. Counts can be extrapolated to % cover based upon number of intercepts counted and plot area. Individual plots are repeated across time.
 
-> Note that Mytilus californianus was always considered to be
+> Note that ***Mytilus californianus*** was always considered to be
 > understory when counted, regardless of the depth of the mussel bed. 
 > Metrics of mussel bed depth were captured in other surveys done in 
 > the same plots at the same times (see protocol).
