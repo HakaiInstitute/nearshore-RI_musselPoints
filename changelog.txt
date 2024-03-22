@@ -1,25 +1,43 @@
 # Changelog
-
 All notable changes to this project will be documented in this file.
 
-## [0.0.1] - yyyy-mm-dd
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning]
+(https://semver.org/spec/v2.0.0.html).
 
-Summary
+## Unreleased
 
-### Added
-
-*
-* 
-*
-
-### Fixed
-
-* 
-
+## [3.1.0] - 2024-01-10
 ### Changed
+- Updated Mussel point intercept survey summaries to November 2023
+- Updated README file
 
-*
+## [3.0.0] - 2023-02-02
+### Changed
+- Removed "taxon_code" from survey data. Updated Mussel point intercept survey 
+summaries to November 2021
+- Updated Data Dictionary to reflect above changes
+- Updated README file
+
+## [2.0.0] - 2022-01-11
+### Changed
+- Updated Mussel point intercept survey summaries to November 2021
+	* Added zeros to survey summaries
+ 	* Added scientific_name & description columns to survey summaries
+ 	* Removed observer, checked_by, entered_by, and notes column
+ 	* Changed overstory MYCA counts to zero
+		~ Due to inconsistencies in counting method for MYCA overstory 
+- Updated Data Dictionary to reflect above changes
+- Updated README file
 
 ### Removed
+- Removed Rocky Intertidal Taxa table
 
-*
+## [1.0.0] - 2020-03-17
+### Added
+- Creative Commons license
+- README file
+- Overall Rocky Intertidal protocol
+- Data Dictionary
+- Mussel Point intercept survey data (2016-2019)
+- Rocky Intertidal taxa codes

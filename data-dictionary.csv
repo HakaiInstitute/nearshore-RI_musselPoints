@@ -1,1 +1,9 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+mussel_point_intercepts-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+mussel_point_intercepts-surveys.csv,site_name,character,NA,Rocky intertidal site where survey was conducted
+mussel_point_intercepts-surveys.csv,plot,numeric,"1,2,3,4,5",Permanent plot areas (marked by bolts) defining five plots at each site. Each plot area measures 75cm x 50 cm
+mussel_point_intercepts-surveys.csv,total_intercepts_counted,numeric,NA,The number of point intercepts counted in the plot area
+mussel_point_intercepts-surveys.csv,understory_overstory,character,NA,Designates whether the count is an understory or overstory count
+mussel_point_intercepts-surveys.csv,scientific_name,character,NA,latin name of the taxon being counted
+mussel_point_intercepts-surveys.csv,description,character,NA,description/common name of the taxon being counted
+mussel_point_intercepts-surveys.csv,count,numeric,NA,Number of point intercepts in the plot where a given taxon was observed
