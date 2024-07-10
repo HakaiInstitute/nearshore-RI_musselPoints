@@ -13,8 +13,8 @@ In light of the effort required to create data packages, we request that in addi
 
 ```
 Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
-Mussel point intercept survey data from BC Central Coast 2016-2023. 
-Hakai Institute dataset. V3.1.0 [access date]
+Mussel Dynamics: Point Intercepts - BC Central Coast (v3.1.0) 
+[Data set]. https://doi.org/10.21966/ns9h-1126
 ```
 
 ## Summary
