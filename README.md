@@ -12,7 +12,7 @@ This data is licensed under a Creative Commons Attribution 4.0 International Lic
 In light of the effort required to create data packages, we request that in addition to following the CC-BY license terms, that users 1) respect the data providers, and provide helpful feedback on data quality, and 2) communicate and/or collaborate with Hakai Nearshore researchers if you are considering using this dataset for manuscripts or other forms of reporting.
 
 ```
-Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
+Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2024). 
 Mussel Dynamics: Point Intercepts - BC Central Coast (v3.1.0) 
 [Data set]. https://doi.org/10.21966/ns9h-1126
 ```
